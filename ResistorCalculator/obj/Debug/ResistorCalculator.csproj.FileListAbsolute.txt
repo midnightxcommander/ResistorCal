@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ResistorCalculator\bin\Debug\ResistorCalculator.exe.config
+C:\Users\User\source\repos\ResistorCalculator\bin\Debug\ResistorCalculator.exe
+C:\Users\User\source\repos\ResistorCalculator\bin\Debug\ResistorCalculator.pdb
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.Form1.resources
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.Properties.Resources.resources
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.exe
+C:\Users\User\source\repos\ResistorCalculator\obj\Debug\ResistorCalculator.pdb
